@@ -6,13 +6,13 @@ theme = "soho"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-162896323-1"
+disqusShortname = "allyshow"
 
 [params]
 description = "Arquiteto de soluções na @AWS | DevSecOps"
 profilePicture="/img/profile.png"
 highlightjs = true
 highlightjsstyle = "github"
-disqusShortname = "allyshow"
 
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"

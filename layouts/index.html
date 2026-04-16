@@ -1,12 +1,7 @@
+{{ define "body-class" }}article-page{{ end }}
 {{ define "main" }}
 {{ with .Site.GetPage "/about" }}
-<article class="main-article">
-    <header class="article-header">
-        <h2 class="article-title">{{ .Title }}</h2>
-    </header>
-    <section class="article-content">
-        {{ .Content }}
-    </section>
-</article>
+{{ partial "article/article.html" . }}
 {{ end }}
+{{ partialCached "footer/footer" . }}
 {{ end }}

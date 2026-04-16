@@ -1,0 +1,48 @@
+mainSections = ["posts"]
+rssFullContent = true
+favicon = ""
+
+[sidebar]
+  emoji = ""
+  subtitle = "Arquiteto de Soluções na AWS | IA Generativa & Cloud"
+
+[sidebar.avatar]
+  enabled = true
+  local = true
+  src = "img/profile.png"
+
+[footer]
+  since = 2020
+
+[article]
+  headingAnchor = false
+  math = false
+  readingTime = true
+
+[article.license]
+  enabled = true
+  default = "Licensed under CC BY-SA 4.0"
+
+[widgets]
+  homepage = [
+    { type = "search" },
+    { type = "archives", params = { limit = 5 } },
+    { type = "tag-cloud", params = { limit = 15 } },
+  ]
+  page = [{ type = "toc" }]
+
+[opengraph.twitter]
+  site = "@asoliveira"
+  card = "summary_large_image"
+
+[colorScheme]
+  toggle = true
+  default = "auto"
+
+[comments]
+  enabled = true
+  provider = "disqus"
+
+[dateFormat]
+  published = "Jan 2, 2006"
+  lastUpdated = "Jan 2, 2006"

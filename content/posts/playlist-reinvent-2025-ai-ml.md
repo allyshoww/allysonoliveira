@@ -2,7 +2,7 @@
 title = "Playlist de AI e ML do AWS re:Invent 2025"
 date = 2026-04-16T12:00:00Z
 author = "Allyson Oliveira"
-tags = ["aws", "reinvent", "inteligência artificial", "machine learning", "bedrock", "sagemaker", "agentes de IA"]
+tags = ["AWS", "reinvent", "inteligência artificial", "machine learning", "bedrock", "sagemaker", "agentes de IA"]
 description = "Todas as sessões de AI e ML do re:Invent 2025, organizadas por tema."
 toc = false
 +++

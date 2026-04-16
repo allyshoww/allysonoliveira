@@ -2,7 +2,7 @@
 title = "Comandos Docker que uso no meu dia-a-dia"
 date = 2022-08-18T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["docker", "devops", "sre", "linux", "kubernetes"]
+tags = ["docker", "devops", "SRE", "linux", "kubernetes"]
 description = "O que faço com o docker para mover minhas tasks para done?"
 +++
 

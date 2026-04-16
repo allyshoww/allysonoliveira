@@ -2,7 +2,7 @@
 title = "Playlist de Analytics do AWS re:Invent 2025"
 date = 2026-04-16T13:00:00Z
 author = "Allyson Oliveira"
-tags = ["aws", "reinvent", "analytics", "redshift", "sagemaker", "opensearch", "data lake", "streaming"]
+tags = ["AWS", "reinvent", "analytics", "redshift", "sagemaker", "opensearch", "data lake", "streaming"]
 description = "Todas as sessões de Analytics do re:Invent 2025, organizadas por tema."
 toc = false
 +++

@@ -1,10 +1,10 @@
-{{ define "body-class" }}article-page has-widget{{ end }}
 {{ define "main" }}
 {{ with .Site.GetPage "/about" }}
 {{ partial "article/article.html" . }}
 {{ end }}
-{{ partialCached "footer/footer" . }}
+{{- partial "footer/footer" . -}}
 {{ end }}
+
 {{ define "right-sidebar" }}
 {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}

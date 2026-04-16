@@ -2,6 +2,7 @@
 title = "Projetos"
 date = 2020-03-07T05:13:50Z
 author = "Allyson Oliveira"
+toc = false
 description = "Alguns projetos e iniciativas que participei ao longo da carreira."
 +++
 

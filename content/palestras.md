@@ -1,8 +1,11 @@
 +++
+
 title = "Palestras e Eventos"
 author = "Allyson Oliveira"
+toc = false
 description = "Eventos e conferências que participei."
 +++
+
 
 ## 2025
 

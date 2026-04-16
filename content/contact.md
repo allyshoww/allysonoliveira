@@ -1,6 +1,7 @@
 +++
 title = "Contato"
 author = "Allyson Oliveira"
+toc = false
 description = "Quer trocar uma ideia?"
 +++
 

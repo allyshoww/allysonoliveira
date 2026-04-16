@@ -2,7 +2,7 @@
 title = "Fique-em-casa-Conf"
 date = 2020-04-13T09:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "conf"]
+tags = ["conferência", "devops", "comunidade"]
 description = "Tá afim de assistir uma conf online 100% gratuitas com palestras de alta qualidade?"
 +++
 

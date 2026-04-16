@@ -2,7 +2,7 @@
 title = "Vantagens de utlização de terraform e Infraestrutura como código"
 date = 2022-04-24T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes"]
+tags = ["terraform", "aws", "infraestrutura como código", "devops", "sre"]
 description = "Nesse texto, vamos entender um pouco sobre mais Terraform e infraestrutura como código."
 +++
 

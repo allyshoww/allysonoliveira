@@ -2,7 +2,7 @@
 title = "Playlist do AWS Reinforce 2024"
 date = 2024-06-25T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["AWS", "Reinforce", "appsec", "Segurança", "Security", "SRE", "kubernetes"]
+tags = ["aws", "segurança", "reinforce", "appsec"]
 description = "O que será que tem escrito no blog da firma?"
 +++
 

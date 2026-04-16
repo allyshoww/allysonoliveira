@@ -2,7 +2,7 @@
 title = "Começanco com segurança em container"
 date = 2023-04-08T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "container", "automação", "AWS", "Devops", "SRE", "docker", "github", "kubernetes", "cybersecurity","devsecops", "blog devops", "segurança"]
+tags = ["docker", "segurança", "devsecops", "kubernetes", "containers"]
 description = "Bora começar a deixar os seus containers mais seguros?"
 +++
 

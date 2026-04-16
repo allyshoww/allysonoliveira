@@ -2,7 +2,7 @@
 title = "Bora começar a estudar golang?"
 date = 2020-05-11T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "golang","go"]
+tags = ["golang", "programação", "devops"]
 description = "Vem estudar golang também!"
 +++
 Quem me conhece sabe que meu grande desafio é a programação. Como venho de infraestrutura, eu não tenho conceitos básicos. Então, minha lógica, algoritmos,etc,  é ruim demais! hahaha

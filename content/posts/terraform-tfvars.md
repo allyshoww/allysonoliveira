@@ -2,7 +2,7 @@
 title = "Tags AWS com o terraform .tfvars"
 date = 2020-03-07T07:13:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "Sre"]
+tags = ["terraform", "aws", "automação", "devops"]
 description = "Precisa alterar ou adicionar várias tags de uma vez só? Dá uma espiadinha!"
 +++
 Esses dias eu tive uma tarefa no trabalho que era adicionar tags em recursos já existentes. Por exemplo:

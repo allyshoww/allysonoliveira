@@ -2,7 +2,7 @@
 title = "Embeddings, Vector Database, RAG e MCP: Como os sistemas modernos de IA realmente funcionam"
 date = 2026-04-16T10:00:00Z
 author = "Allyson Oliveira"
-tags = ["IA", "inteligência artificial", "embeddings", "vector database", "RAG", "MCP", "LLM", "AI agents"]
+tags = ["inteligência artificial", "embeddings", "vector database", "rag", "mcp", "llm", "agentes de IA"]
 description = "Um resumo do vídeo do ByteMonk explicando como Embeddings, Vector Databases, RAG e MCP se conectam nos sistemas modernos de IA."
 +++
 
@@ -40,9 +40,76 @@ O **MCP** (Model Context Protocol) é um protocolo que padroniza como aplicaçõ
 
 Enquanto o RAG foca em recuperar informações não-estruturadas para enriquecer prompts, o MCP trata o contexto como **entradas dinâmicas, estruturadas e compostas**, passadas via um protocolo formal. Na prática, RAG e MCP são complementares: o RAG busca o conhecimento relevante e o MCP padroniza como esse conhecimento (e outras ferramentas) chegam até o modelo.
 
+## Mão na massa: exemplos de código
+
+**Gerando um embedding com a API da OpenAI:**
+
+```python
+from openai import OpenAI
+
+client = OpenAI()
+
+response = client.embeddings.create(
+    model="text-embedding-3-small",
+    input="Como funcionam os sistemas modernos de IA?"
+)
+
+vetor = response.data[0].embedding
+print(f"Dimensões do vetor: {len(vetor)}")
+# Dimensões do vetor: 1536
+```
+
+**Fazendo uma busca por similaridade com ChromaDB:**
+
+```python
+import chromadb
+
+client = chromadb.Client()
+collection = client.create_collection("meus_docs")
+
+# Inserindo documentos (o Chroma gera os embeddings automaticamente)
+collection.add(
+    documents=["RAG conecta LLMs a bases de conhecimento",
+                "Docker isola aplicações em containers",
+                "Embeddings capturam significado semântico"],
+    ids=["doc1", "doc2", "doc3"]
+)
+
+# Buscando por similaridade
+resultados = collection.query(
+    query_texts=["como dar contexto para uma IA?"],
+    n_results=2
+)
+print(resultados["documents"])
+# [['RAG conecta LLMs a bases de conhecimento',
+#   'Embeddings capturam significado semântico']]
+```
+
+Note que a busca retornou os documentos semanticamente relevantes, mesmo sem palavras em comum com a query.
+
 ## Como tudo se conecta
 
-A stack moderna de IA funciona assim:
+```
+┌──────────┐    ┌──────────────┐    ┌───────────┐    ┌─────────┐    ┌──────────┐
+│          │    │              │    │           │    │         │    │          │
+│  Dados   ├───►│  Embeddings  ├───►│ Vector DB ├───►│   RAG   ├───►│   LLM    │
+│          │    │              │    │           │    │         │    │          │
+└──────────┘    └──────────────┘    └───────────┘    └────┬────┘    └─────┬────┘
+                                                          │               │
+                                                     ┌────▼────┐         │
+                                                     │         │         │
+                                                     │   MCP   ◄─────────┘
+                                                     │         │
+                                                     └────┬────┘
+                                                          │
+                                                    ┌─────▼──────┐
+                                                    │            │
+                                                    │  AI Agent  │
+                                                    │            │
+                                                    └────────────┘
+```
+
+Resumindo a stack:
 
 - **Embeddings** transformam dados em vetores com significado semântico
 - **Vector Databases** armazenam e buscam esses vetores de forma eficiente
@@ -50,6 +117,13 @@ A stack moderna de IA funciona assim:
 - **MCP** padroniza a comunicação entre o agente de IA e todas essas fontes de dados e ferramentas
 - **AI Agents** orquestram tudo isso, planejando consultas em múltiplos passos e adaptando a estratégia conforme os resultados
 
-O vídeo do ByteMonk faz um ótimo trabalho explicando como essas peças se encaixam. Se você está começando a explorar o mundo de IA aplicada, recomendo assistir: [link do vídeo](https://www.youtube.com/watch?v=PByDzuOrkek).
+## Para ir além
+
+- [OpenAI Embeddings Guide](https://platform.openai.com/docs/guides/embeddings) — documentação oficial sobre embeddings
+- [ChromaDB](https://docs.trychroma.com/) — vector database open-source, ótimo para começar
+- [Pinecone Learning Center](https://www.pinecone.io/learn/) — tutoriais sobre vector databases e busca semântica
+- [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/) — tutorial prático de RAG com Python
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) — especificação oficial do protocolo
+- [Vídeo original do ByteMonk](https://www.youtube.com/watch?v=PByDzuOrkek) — o vídeo que inspirou este post
 
 Nos vemos por aí!

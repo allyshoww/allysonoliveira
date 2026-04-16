@@ -2,7 +2,7 @@
 title = "Playlist de Segurança e Containers do re:invent 2022"
 date = 2023-01-13T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["AWS", "EKS", "automação", "Segurança", "Security", "SRE", "kubernetes"]
+tags = ["aws", "segurança", "reinvent", "containers", "eks"]
 description = "Bora ver alguns videos de segurança e container do re:invent de 2022?"
 +++
 

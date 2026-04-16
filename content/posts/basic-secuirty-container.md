@@ -1,5 +1,5 @@
 +++
-title = "Começanco com segurança em container"
+title = "Começando com segurança em container"
 date = 2023-04-08T07:16:50Z
 author = "Allyson Oliveira"
 tags = ["docker", "segurança", "devsecops", "kubernetes", "containers"]

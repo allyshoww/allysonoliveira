@@ -8,10 +8,10 @@ description = "Tá afim de assistir uma conf online 100% gratuitas com palestras
 
 Fala galera!
 
-Está rolando o evento chamado **FIQUE EM CASA** . É uma conferência que está acontecendo no mês de abril e envolve grandes nomes da tecnologia do Brasil. Foi organizado pelo Jeferson Noronha (@badtux_), criado do canal [linuxtips](youtube.com/linuxtips) e a sua turminha marota.
+Está rolando o evento chamado **Fique em Casa Conf**. É uma conferência que está acontecendo no mês de abril e envolve grandes nomes da tecnologia do Brasil. Foi organizada pelo Jeferson Noronha (@badtux_), criador do canal [LinuxTips](https://youtube.com/linuxtips), e a sua turminha marota.
 
-As palestras ocorrem todo dia as 16h no canal *Linuxtips* do youtube.
+As palestras ocorrem todo dia às 16h no canal *LinuxTips* do YouTube.
 
-Toda as palestras ficam gravadas, então, corre lá e não perca!
+Todas as palestras ficam gravadas, então corre lá e não perca!
 
 Aqui está o [link](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk) para você assistir as palestras que já aconteceram.

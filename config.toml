@@ -34,10 +34,15 @@ url = "https://twitter.com/asoliveira"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Fale comigo!"
-    identifier = "Sobre Mim"
+    name = "Contato"
+    identifier = "Contato"
     weight = 200
-    url = "/about/"
+    url = "/contact/"
+[[menu.main]]
+    name = "Palestras"
+    identifier = "Palestras"
+    weight = 200
+    url = "/palestras/"
 [[menu.main]]
     name = "Projetos"
     identifier = "Projetos"

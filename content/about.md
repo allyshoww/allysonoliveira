@@ -13,32 +13,32 @@ Nos últimos anos, tenho me especializado em **Dados e IA**, com foco em agentes
 
 **Principais conhecimentos:**
 
-• Amazon Web Services (Arquitetura, Segurança, IA Generativa, Bedrock, SageMaker)
-• IA Generativa e Agentes de IA (RAG, Embeddings, MCP, AgentCore)
-• Segurança em Cloud e Containers (DevSecOps)
-• Orquestração de containers com Kubernetes e EKS
-• Infraestrutura como código com Terraform
-• Python e Golang
-• Linux
+- Amazon Web Services (Arquitetura, Segurança, IA Generativa, Bedrock, SageMaker)
+- IA Generativa e Agentes de IA (RAG, Embeddings, MCP, AgentCore)
+- Segurança em Cloud e Containers (DevSecOps)
+- Orquestração de containers com Kubernetes e EKS
+- Infraestrutura como código com Terraform
+- Python e Golang
+- Linux
 
 **Certificações AWS:**
 
-• AWS Certified Solutions Architect – Professional
-• AWS Certified DevOps Engineer – Professional
-• AWS Certified Solutions Architect – Associate
-• AWS Certified Cloud Practitioner
-• AWS Certified AI Practitioner
-• AWS Certified Machine Learning – Associate
-• AWS Cloud Security Specialist
-• Amazon AgentCore Specialist
-• CKA – Certified Kubernetes Administrator
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- AWS Certified Machine Learning – Associate
+- AWS Cloud Security Specialist
+- Amazon AgentCore Specialist
+- CKA – Certified Kubernetes Administrator
 
 **Premiações:**
 
-• Public Sector SA of the Year – 2023
-• Solutions Architect of the Quarter – 2024
+- Public Sector SA of the Year – 2023
+- Solutions Architect of the Quarter – 2024
 
 ## Escolaridade
 
-• Pós-graduação em Cloud Computing – Estácio
-• Pós-graduação em Machine Learning Engineering – FIAP (cursando)
+- Pós-graduação em Cloud Computing – Estácio
+- Pós-graduação em Machine Learning Engineering – FIAP (cursando)

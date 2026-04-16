@@ -2,7 +2,7 @@
 title = "Meus posts no blog da firma!"
 date = 2024-07-25T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["aws", "eks", "segurança", "sre", "kubernetes"]
+tags = ["AWS", "EKS", "segurança", "SRE", "kubernetes"]
 description = "O que será que tem escrito no blog da firma?"
 +++
 

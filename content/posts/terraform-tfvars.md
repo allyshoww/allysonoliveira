@@ -2,7 +2,7 @@
 title = "Tags AWS com o terraform .tfvars"
 date = 2020-03-07T07:13:50Z
 author = "Allyson Oliveira"
-tags = ["terraform", "aws", "automação", "devops"]
+tags = ["terraform", "AWS", "automação", "devops"]
 description = "Precisa alterar ou adicionar várias tags de uma vez só? Dá uma espiadinha!"
 +++
 

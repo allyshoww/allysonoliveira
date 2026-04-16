@@ -5,33 +5,40 @@ author = "Allyson Oliveira"
 description = "$whoami"
 +++
 
-Trabalho com tecnologia da informação desde 2006. Na minha carreira, adquiri sólidos conhecimentos em infraestrutura e adminitração de servidores, participando da implementação de diversos projetos (inclusive internacionais) e sempre entregando a melhor solução ao cliente.
+Trabalho com tecnologia da informação desde 2006. Comecei na infraestrutura e administração de servidores, passei por DevOps/SRE e hoje atuo como **Arquiteto de Soluções na AWS**, com foco em **IA Generativa, Cloud e Segurança**.
 
-O meu background técnico facilitou minha transição para atuar como Devops/SRE em ambientes em Cloud, conhecimento que, junto com as certificações técnicas em Cloud, me ajudaram a ser arquiteto de soluçÕes na AWS.
+Minha trajetória me deu uma visão completa da stack: do bare-metal ao serverless, do VMware ao Kubernetes, do on-premises à nuvem. Atualmente, ajudo organizações enterprise e governo a adotar IA Generativa, arquitetar soluções em cloud e implementar práticas de segurança.
 
-Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciamento de diversos ambientes em cloud computing, tais como, migração e arquitetura de infraestrutura on-premises para nuvem, monitoramento e gerenciamento de app's em ambientes de cloud e em orquestradores de containeres (Kubernetes, por exemplo), deploy continuo de aplicativos web e mobile, análise da arquitetura de aplicação para deixá-la mais resiliente possível e testes com recuperação de desastres de infraestrutura, atuando sempre com metodologia ageis, com foco em automação de tarefas e redução de tempo gasto em determinadas atividades.
+Nos últimos anos, tenho me especializado em **Dados e IA**, com foco em agentes de IA (Amazon Bedrock AgentCore), RAG, embeddings e arquiteturas de IA generativa em produção.
 
-**Meus principais conhecimentos:**
+**Principais conhecimentos:**
 
-• *Amazon Web Services*;
+• Amazon Web Services (Arquitetura, Segurança, IA Generativa, Bedrock, SageMaker)
+• IA Generativa e Agentes de IA (RAG, Embeddings, MCP, AgentCore)
+• Segurança em Cloud e Containers (DevSecOps)
+• Orquestração de containers com Kubernetes e EKS
+• Infraestrutura como código com Terraform
+• Python e Golang
+• Linux
 
-• Orquestração de containers com *Kubernetes* e *Docker Swarm*;
+**Certificações AWS:**
 
-• Ferramentas de automação Devops: *Terraform*, *Docker*, *Ansible*, *Git*, *Github*, *Jenkins*, *Jira* e *Confluence*;
+• AWS Certified Solutions Architect – Professional
+• AWS Certified DevOps Engineer – Professional
+• AWS Certified Solutions Architect – Associate
+• AWS Certified Cloud Practitioner
+• AWS Certified AI Practitioner
+• AWS Certified Machine Learning – Associate
+• AWS Cloud Security Specialist
+• Amazon AgentCore Specialist
+• CKA – Certified Kubernetes Administrator
 
-• Desenvolvimento de scripts e tasks de automação com *Python* e iniciando estudos de *golang*;
+**Premiações:**
 
-• *Monitoramento* de infraestrutura e aplicações;
-
-• Criação e desenvolvimento de *métricas SRE* para as aplicações;
-
-• Administração e gerenciamento de servidores *Linux* e *Windows Server*;
-
-• VMware (*Horizon VDI, vSRM, vSOM, vCenter, ESXi, VDP, etc*); 
-
+• Public Sector SA of the Year – 2023
+• Solutions Architect of the Quarter – 2024
 
 ## Escolaridade
 
-Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na [UFSCAR](http://www.propg.ufscar.br/pt-br/pos-na-ufscar/programas) em araraquara, contando com a ajuda e dicas de um grande profissional, o [André Luis Cristiani!](https://www.linkedin.com/in/andr%C3%A9-luis-cristiani-163245a1/)
-
-Quem sabe um dia né! ^.^y
+• Pós-graduação em Cloud Computing – Estácio
+• Pós-graduação em Machine Learning Engineering – FIAP (cursando)

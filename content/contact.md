@@ -1,13 +1,10 @@
 +++
-title = "Fale comigo"
+title = "Contato"
 author = "Allyson Oliveira"
 description = "Quer trocar uma ideia?"
 +++
 
-## Meus contatos
+Quer trocar uma ideia sobre cloud, IA, segurança ou qualquer outro tema? Fica à vontade para me chamar:
 
-Quer saber mais sobre algum texto, quer melhorar algum código, quer ajudar a compartilhar conhecimento? 
-
-**TOP DEMAIS**
-
-A esquerda tem meu twitter, linkedin, telegram, só dar um ping que vou ficar muito feliz! :D
+- [LinkedIn](https://www.linkedin.com/in/allysonoliveira) — melhor canal para contato profissional
+- [Twitter/X](https://twitter.com/asoliveira)

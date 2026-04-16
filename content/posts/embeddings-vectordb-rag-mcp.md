@@ -42,6 +42,8 @@ Enquanto o RAG foca em recuperar informações não-estruturadas para enriquecer
 
 ## Mão na massa: exemplos de código
 
+![Fluxo RAG com MCP](/img/rag-mcp-flow.png)
+
 **Gerando um embedding com a API da OpenAI:**
 
 ```python

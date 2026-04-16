@@ -8,6 +8,8 @@ description = "Bora começar a deixar os seus containers mais seguros?"
 
 O *Docker* é uma plataforma de software que permite a criação, o teste e a implantação de aplicações rapidamente. Se você quer conhecer mais sobre essa tecnologia, pode clicar nesse [link](https://www.docker.com).
 
+![Segurança em Containers](/img/seguranca-containers.png)
+
 Sendo uma tecnologia muito utilizada, devemos ter um olhar crítico com relação à segurança. Antigamente, existia uma grande discussão sobre velocidade de entrega de software versus segurança, onde se tinha a visão de que para entregar uma *aplicação ágil e moderna, temos que abrir mão de segurança* — o que **não é verdade**. Hoje, principalmente com ambientes em nuvem, não é necessário deixar a segurança da informação de lado, sendo possível entregar a aplicação de maneira segura em todas as etapas.
 
 Vamos detalhar alguns pontos que temos que ficar atentos:

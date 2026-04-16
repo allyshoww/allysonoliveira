@@ -20,6 +20,8 @@ E como o cliente precisa de agilidade para entrega de novas features e também p
 
 ## Definindo a stack
 
+![Arquitetura de Migração On-Premises para AWS](/img/migracao-aws.png)
+
 Temos muito trabalho para fazer, então mãos à obra! Não que esse jeito seja o correto ou o melhor, mas definimos assim:
 
 Escolhemos uma stack de ferramentas que utilizaríamos. É mais ou menos assim:

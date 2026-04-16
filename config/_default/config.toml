@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableInlineShortcodes = true
 
 googleAnalytics = "G-VENR42KY13"
-disqusShortname = "allyshow"
+# disqusShortname = "allyshow"
 
 [pagination]
   pagerSize = 10

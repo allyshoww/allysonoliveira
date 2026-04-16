@@ -7,7 +7,7 @@ favicon = ""
   subtitle = "Arquiteto de Soluções na AWS | IA Generativa & Cloud"
 
 [sidebar.avatar]
-  enabled = true
+  enabled = false
   local = true
   src = "img/profile.png"
 
@@ -20,7 +20,7 @@ favicon = ""
   readingTime = true
 
 [article.license]
-  enabled = true
+  enabled = false
   default = "Licensed under CC BY-SA 4.0"
 
 [widgets]
@@ -40,7 +40,7 @@ favicon = ""
   default = "auto"
 
 [comments]
-  enabled = true
+  enabled = false
   provider = "disqus"
 
 [dateFormat]

@@ -2,7 +2,7 @@
 title = "Embeddings, Vector Database, RAG e MCP: Como os sistemas modernos de IA realmente funcionam"
 date = 2026-04-16T10:00:00Z
 author = "Allyson Oliveira"
-tags = ["inteligência artificial", "embeddings", "vector database", "rag", "mcp", "llm", "agentes de IA"]
+tags = ["inteligência artificial", "embeddings", "vector database", "rag", "mcp", "llm", "Agentic AI"]
 description = "Um resumo do vídeo do ByteMonk explicando como Embeddings, Vector Databases, RAG e MCP se conectam nos sistemas modernos de IA."
 +++
 

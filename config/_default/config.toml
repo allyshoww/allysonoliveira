@@ -1,0 +1,16 @@
+baseURL = "https://www.allysonoliveira.com.br"
+languageCode = "pt-br"
+title = "Allyson Oliveira"
+theme = "hugo-theme-stack"
+
+defaultContentLanguage = "pt-br"
+hasCJKLanguage = false
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+
+googleAnalytics = "G-VENR42KY13"
+disqusShortname = "allyshow"
+
+[pagination]
+  pagerSize = 10

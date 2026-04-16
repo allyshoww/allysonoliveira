@@ -1,0 +1,53 @@
+[[main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+  [main.params]
+    icon = "home"
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+  [main.params]
+    icon = "archives"
+
+[[main]]
+  identifier = "palestras"
+  name = "Palestras"
+  url = "/palestras/"
+  weight = 30
+  [main.params]
+    icon = "microphone"
+
+[[main]]
+  identifier = "projetos"
+  name = "Projetos"
+  url = "/projetos/"
+  weight = 40
+  [main.params]
+    icon = "rocket"
+
+[[main]]
+  identifier = "contato"
+  name = "Contato"
+  url = "/contact/"
+  weight = 50
+  [main.params]
+    icon = "mail"
+
+[[social]]
+  identifier = "linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/allysonoliveira"
+  [social.params]
+    icon = "brand-linkedin"
+
+[[social]]
+  identifier = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/asoliveira"
+  [social.params]
+    icon = "brand-twitter"

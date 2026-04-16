@@ -1,25 +1,33 @@
 +++
-title = "Projetos que já participei"
+title = "Projetos"
 date = 2020-03-07T05:13:50Z
 author = "Allyson Oliveira"
-description = "Esses são alguns projetos que já participei na minha carreira, tanto quanto sysadmin e consultor de tecnologia quanto de devops e sre."
+description = "Alguns projetos e iniciativas que participei ao longo da carreira."
 +++
 
-● Consolidação de todo o ambiente físico em servidores virtualizados com VMware em uma IBM Bladecenter S para empresa do segmento da saúde no interior do estado de São Paulo;
+## AWS – Arquiteto de Soluções
 
-● Utilização de desktops virtuais, reduzindo o consumo de energia, aquisição de computadores e usuários inoperantes por defeitos de endpoints, maximizando a produtividade.
+- Apoio a organizações enterprise e governo na adoção de **IA Generativa** com Amazon Bedrock, incluindo arquiteturas com RAG, agentes de IA e Amazon Bedrock AgentCore
+- Arquitetura e implementação de soluções de **segurança em cloud** para o setor público federal brasileiro
+- Participação no **AWS Public Sector Symposium Brasília**, com sessões sobre infraestrutura crítica resiliente e segurança avançada
+- Premiado como **Public Sector SA of the Year (2023)** e **SA of the Quarter (2024)**
 
-● Implementação do maior projeto rodoviário em Lima, Peru, contendo todas as tecnologias VMware e hardwares DELL, desde storages, servidores, switches, desktops virtuais e a infraestrutura de servidores Linux. 
+## Migração e Arquitetura Cloud
 
-● Implementação e suporte do ambiente do Tribunal de Justiça, operando diretamente as atividades do data center e administração e gerenciamento dos ambientes virtuais Windows e Linux. Projeto envolvia algumas tecnologias , como VMware Horizon, VMware Site Recovery Manager, VMware Operations Manager, além de diversas soluções em cloud. Foi nesse momento que comecei a estudar ferramentas e cultura devops, pois devido ao tamanho e a repetição das tasks, vi que era necessário automatizar as tarefas repetidas. Foi quando a gerência de configuração me ajudou muito e percebi que gostaria de migrar minha carreira para essa area.  
+- Arquitetura e defesa técnica de projetos de **migração on-premises para AWS**, vencendo concorrências contra múltiplos fornecedores
+- Implementação de infraestrutura como código com Terraform, esteiras CI/CD e práticas DevOps em ambientes de produção
+- Migração de monolitos para **microserviços em Kubernetes**, incluindo observabilidade com ELK e Prometheus
 
+## DevOps/SRE em Fintechs
 
-● Arquitetura e defesa técnica de uma solução que uma startup estava em dúvida em qual nuvem hospedaria sua aplicação. Estávamos em uma concorrência com diversas empresas do mercado e nossa solução foi a vencedora do processo. Após essa etapa, todo o deploy do ambiente foi realizado com infraestrutura em código e vivenciando um ambiente de entrega e esteira agil. 
+- Criação de **métricas SRE** para times de backoffice financeiro, com foco em disponibilidade e recuperação de desastres
+- Implementação de stack DevOps completa: Kubernetes, CI/CD, infraestrutura como código e centralização de logs
+- Transformação cultural DevOps em empresas sem a cultura estabelecida
 
-● Fui responsável pela criação da arquitetura de um projeto de migração de infraestrutura on-premise para AWS e quais serviços o cliente iria utilizar. Após a defesa técnica e negociação, nossa solução foi a vencedora entre diversos concorrentes. Quando iniciamos o projeto, optamos por utilizar toda a infraestrutura como código, migração de ambiente através de soluções da Amazon e monitoramento dessas tecnologias, tudo isso vivenciando entrega agil e esteira com Devops.
+## Teleton
 
-● Participei de um projeto que considero o melhor da minha vida profissional, o [Teleton](www.teleton.org). Foi revigorante ajudar de alguma forma, administrando, monitoramento e implementando ferramentas e soluções para que os desenvolvedores entregassem mais rápido! Depois, no dia do evento, foi mágico vivenciar toda aquela atmosfera de amor ao próximo e gratidão!
+- Participação no projeto do [Teleton](https://www.teleton.org), administrando, monitorando e implementando soluções para acelerar entregas dos times de desenvolvimento durante o evento
 
-● Trabalhei em uma fintech, no time de backoffice financeiro. Era responsável pela criação de métricas SRE importantes ao negócio, disponibilidade, recuperação de desastres das app's dos times que participava e  Realizava deploys em ambientes na AWS através das stacks devops 
+## Projetos Internacionais
 
-E atualmente, participo de um projeto em uma empresa de consultoria em uma fintech, onde estamos implementando toda stack devops, microserviços, tudo isso vivenciando um ambiente agil! Como a empresa não possui a cultura devops, estamos passando também por esse grande desafio. Criação de ambiente com infraestrutura como código desmontando o lego do monolito em pequenos microserviços, criação de esteira agil de deploy em diversos ambientes, implementação de Kubernetes, monitoramento e centralização de logs com a stack ELK-Prometheus, tanto em nuvem como on-premises!
+- Implementação do maior projeto rodoviário em **Lima, Peru**, com tecnologias VMware e infraestrutura DELL, incluindo servidores, storages, desktops virtuais e infraestrutura Linux

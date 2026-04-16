@@ -9,7 +9,7 @@ googleAnalytics = "UA-162896323-1"
 disqusShortname = "allyshow"
 
 [params]
-description = "Arquiteto de soluções na @AWS | DevSecOps"
+description = "Arquiteto de Soluções na AWS | IA Generativa & Cloud"
 profilePicture="/img/profile.png"
 highlightjs = true
 highlightjsstyle = "github"
